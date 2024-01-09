@@ -1,0 +1,5 @@
+﻿/SN /O+ /SF
+/NNP /NNP /O+ /JKG /O /XR /XR /O+ /XSA /O+ /ETM /O /NNG /NNG /NNG /O+ /JKB /O /MAG /MAG /O /VV /O+ /ETM /O /NNG /O+ /JKO /O /VV /VV /O+ /EC /O /NNG /NNG /O /VA /O+ /ETM /O /NNG /O+ /JKB /O /VV /O+ /EC /O /VX /O+ /ETM /O /NNG /NNG /NNG /O+ /JKS /O /VV /VV /VV /O+ /ETM /O /NNB /O /VA /O+ /EP /O+ /EF /O+ /SF
+/MM /O /NNG /O /VV /VV /O+ /EC /O+ /VX /O+ /ETN /O+ /JX /O+ /SP /O /XR /XR /O+ /XSA /O+ /ETM /O /NNG /NNG /O+ /JX /O /VV /O+ /EC /O /VX /O+ /ETM /O /NNP /NNP /O+ /JKG /O /NNG /NNG /O+ /XSA /O+ /ETM /O /NNG /O+ /NNG /O /NNG /O+ /JKB /O /NNP /NNP /O+ /JX /O /NNG /NNG /O+ /JKG /O /NNG /NNG /O+ /JKS /O /MAG /MAG /MAG /O /XR /XR /O+ /XSA /O+ /EC /O /VV /VV /O+ /EP /O+ /EF /O+ /SF
+/NNP /NNP /O+ /JX /O /MM /O /VA /VA /VA /O+ /ETM /O /NNG /O+ /JKO /O /VV /VV /VV /O+ /EC /O /NNG /NNG /O+ /JKB /O /VV /O+ /EC /O /VX /O+ /ETM /O /MM /MM /O /NNG /NNG /O+ /XSN /O+ /JKO /O /VV /VV /O+ /EC /O /VX /O+ /ETM /ETM /O /NNG /NNG /O+ /JKO /O /VV /O+ /EP /O+ /EF /O+ /SF
+/NNP /NNP /O+ /JKG /O /NNG /NNG /O /NNG /O+ /JKB /O /XR /XR /O+ /XSA /O+ /ETM /O /NNG /NNG /O+ /JKS /O /VV /VV /O+ /ETM /O /NNB /O+ /XSA /O+ /EC /EC /O /VV /VV /O+ /EP /O+ /EF /O+ /SF

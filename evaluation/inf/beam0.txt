@@ -1,0 +1,5 @@
+﻿1/SN+./SF
+석훈/NNP+의/JKG 진지/XR+하/XSA+ㄴ/ETM 눈동자/NNG+와/JKB 마주/MAG 잡/VV+은/ETM 손/NNG+을/JKO 통하/VV+아/EC 가슴/NNG 깊/VA+은/ETM 곳/NNG+에/JKB 묻/VV+어/EC 두/VX+ㄴ/ETM 서러움/NNG+이/JKS 꿈틀대/VV+는/ETM 것/NNB 같/VA+았/EP+다/EF+./SF
+한/MM 점/NNG 구기/VV+어/EC+지/VX+ㅁ/ETN+도/JX+,/SP 퇴색/XR+하/XSA+ㄴ/ETM 느낌/NNG+도/JX 들/VV+지/EC 않/VX+는/ETM 석훈/NNP+의/JKG 투명/NNG+하/XSA+ㄴ/ETM 눈/NNG+빛/NNG 앞/NNG+에/JKB 진우/NNP+는/JX 자신/NNG+의/JKG 존재/NNG+가/JKS 한없이/MAG 초라/XR+하/XSA+아/EC 보이/VV+었/EP+다/EF+./SF
+진우/NNP+는/JX 저/MM 희디희/VA+ㄴ/ETM 솜/NNG+을/JKO 뜯어내/VV+어/EC 세상/NNG+에/JKB 숨/VV+어/EC 있/VX+는/ETM 모든/MM 상처/NNG+들/XSN+을/JKO 싸매/VV+고/EC 싶/VX+다는/ETM 생각/NNG+을/JKO 하/VV+았/EP+다/EF+./SF
+진우/NNP+의/JKG 얼굴/NNG 위/NNG+로/JKB 애매/XR+하/XSA+ㄴ/ETM 웃음/NNG+이/JKS 번지/VV+ㄹ/ETM 듯/NNB+하/XSA+다가/EC 멈추/VV+었/EP+다/EF+./SF
